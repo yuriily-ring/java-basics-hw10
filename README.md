@@ -1,6 +1,6 @@
 # java-basics-hw10
 
-This is a homework for the Java Constructors
+This is a homework for the Java Exception
 
 ## IntelliJ IDEA project configuration
 1. Clone this project to your local environment
